@@ -1,0 +1,86 @@
+.napisat h2{
+    font-weight: 400;
+    font-size: 19px;
+    font-family: "Trebuchet MS";
+    color: rgb(138,152,156);
+    margin-left: 70px;
+}
+.napisat{
+    padding-top: 20px;  
+}
+.pismo{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pismo input{
+    width: 250px;
+    height: 30px;
+    padding-left: 30px;
+    font-size: 15px;
+    border: 2px solid rgb(219,221,222);
+    margin-top: 20px;
+}
+.karandash i{
+    color: black;
+    font-size: 21px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.karandash{
+    margin-top: 10px;
+    width: 350px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.karandash textarea{
+    width: 350px;
+    height: 150px;
+    border: 2px solid rgb(219,221,222);
+}
+.otpravit {
+    margin-top: 35px;
+    width: 350px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.otpravit input{
+    width: 150px;
+    height: 35px;
+    background-color: rgb(229,236,236);
+    color: rgb(132,137,137);
+    border: 1px solid rgb(215,227,228);
+    border-bottom: 5px solid rgb(210,223,224);
+}
+body{
+    background-color: rgb(211,219,226);
+}
+.forma{
+    background-color: white;
+    width: 500px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.pismo i{
+    color: black;
+    font-size: 21px;
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 5px;
+}
+.otpravit label{
+    font-family: "Trebuchet MS";
+    margin-top:15px;
+
+}
+.otpravit input:hover{
+    cursor: pointer;
+    background-color:black;
+    border: 1px solid yellow;
+    color: white;
+}
